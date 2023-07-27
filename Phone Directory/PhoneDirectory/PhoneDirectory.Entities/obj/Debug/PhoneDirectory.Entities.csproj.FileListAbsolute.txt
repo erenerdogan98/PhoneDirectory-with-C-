@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Entities\bin\Debug\PhoneDirectory.Entities.dll
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Entities\bin\Debug\PhoneDirectory.Entities.pdb
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Entities\obj\Debug\PhoneDirectory.Entities.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Entities\obj\Debug\PhoneDirectory.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Entities\obj\Debug\PhoneDirectory.Entities.dll
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Entities\obj\Debug\PhoneDirectory.Entities.pdb

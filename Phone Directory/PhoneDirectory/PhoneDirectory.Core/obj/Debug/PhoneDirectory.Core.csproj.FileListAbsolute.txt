@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\bin\Debug\PhoneDirectory.Core.dll
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\bin\Debug\PhoneDirectory.Core.pdb
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\bin\Debug\PhoneDirectory.Entities.dll
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\bin\Debug\PhoneDirectory.Entities.pdb
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\obj\Debug\PhoneDirectory.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\obj\Debug\PhoneDirectory.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\obj\Debug\PhoneDirectory.Core.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\obj\Debug\PhoneDirectory.Core.dll
+C:\Users\lenovo\source\repos\Phone Directory\PhoneDirectory\PhoneDirectory.Core\obj\Debug\PhoneDirectory.Core.pdb
